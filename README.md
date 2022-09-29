@@ -8,7 +8,7 @@ I am learning and practicing my skills using python.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[This is my demo video](https://youtu.be/kVaqSpi167s)
 
 # Development Environment
 * Visual Studio code
@@ -18,7 +18,7 @@ I am learning and practicing my skills using python.
 # Useful Websites
 
 * [Sudoku Solver in Python](https://www.askpython.com/python/examples/sudoku-solver-in-python)
-* [Python Reference](https://www.python.org/)
+* [Python w3schools](https://www.w3schools.com/python/default.asp)
 
 # Future Work
 
