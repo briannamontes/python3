@@ -6,7 +6,6 @@ I wrote Sudoku game using python
 
 I am learning and practicing my skills using python.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
 
 [This is my demo video](https://youtu.be/kVaqSpi167s)
 
